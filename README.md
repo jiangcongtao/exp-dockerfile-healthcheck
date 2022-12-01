@@ -4,6 +4,10 @@
 
 ```sh
 docker build -t test-healthcheck .
+
+or
+
+./build.sh
 ```
 
 ## Reference 
